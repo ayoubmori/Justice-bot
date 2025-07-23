@@ -1,0 +1,36 @@
+{
+  "guilty_evidence": [
+    {
+      "theme": "theft",
+      "keywords": ["stole a car", "shoplifted electronics", "took a wallet", "pocketed a necklace"],
+      "justification": "The case involves the illegal appropriation of property."
+    },
+    {
+      "theme": "fraud",
+      "keywords": ["used a stolen credit card", "created fake documents", "falsified a signature", "forged an ID"],
+      "justification": "Evidence points to financial fraud or forgery."
+    },
+    {
+      "theme": "assault",
+      "keywords": ["initiated a physical fight", "assaulted a bystander", "punched the victim"],
+      "justification": "The suspect is accused of physical assault."
+    }
+  ],
+  "innocent_evidence": [
+    {
+      "theme": "self_defense",
+      "keywords": ["acted in self-defense", "was defending himself", "was provoked into the fight"],
+      "justification": "The action was taken in self-defense, which negates criminal intent."
+    },
+    {
+      "theme": "no_proof",
+      "keywords": ["there is no proof", "lacked sufficient evidence", "no witnesses confirmed the story", "the claim is unsubstantiated"],
+      "justification": "There is insufficient evidence to confirm guilt beyond a reasonable doubt."
+    },
+    {
+      "theme": "mistake",
+      "keywords": ["it was an accident", "returned the item immediately", "it was a complete misunderstanding"],
+      "justification": "The situation appears to be a misunderstanding or accident, lacking criminal intent."
+    }
+  ]
+}

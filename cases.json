@@ -1,0 +1,1002 @@
+[
+  {
+    "description": "While A woman did fake documents, the report states it there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'falsified a signature', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The defendant was accused of the following: 'pocketed a necklace', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did a physical fight, the report states it was defending himself.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual shoplifted electronics at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "An individual was accused of the following: 'punched the victim', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'assaulted a bystander', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual was accused of the following: 'falsified a signature', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect forged an ID at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A man stole a car at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While The defendant did a car, the report states it was defending himself.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'pocketed a necklace', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A man did a bystander, the report states it returned the item immediately.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect punched the victim in a public park.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A man was accused of the following: 'falsified a signature', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual took a wallet in a public park.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The defendant created fake documents in a dark alley.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'used a stolen credit card', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A man took a wallet downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While A man did an ID, the report states it it was an accident.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman used a stolen credit card in a public park.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While A woman did a signature, the report states it was defending himself.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman assaulted a bystander at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The defendant shoplifted electronics at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The defendant was accused of the following: 'took a wallet', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'punched the victim', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The defendant did electronics, the report states it no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The defendant did a car, the report states it the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did a necklace, the report states it returned the item immediately.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A man was accused of the following: 'initiated a physical fight', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The defendant did fake documents, the report states it there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While An individual did fake documents, the report states it the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual was accused of the following: 'pocketed a necklace', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'assaulted a bystander', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual was accused of the following: 'forged an ID', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual was accused of the following: 'shoplifted electronics', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual punched the victim downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While The defendant did an ID, the report states it the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did a stolen credit card, the report states it no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'forged an ID', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman used a stolen credit card downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'falsified a signature', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A man was accused of the following: 'assaulted a bystander', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman forged an ID in a dark alley.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'assaulted a bystander', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'pocketed a necklace', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A man was accused of the following: 'forged an ID', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect forged an ID at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A man forged an ID in a dark alley.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect assaulted a bystander downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'initiated a physical fight', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual forged an ID downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect pocketed a necklace at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "An individual was accused of the following: 'shoplifted electronics', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The defendant did a wallet, the report states it it was an accident.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did a physical fight, the report states it it was a complete misunderstanding.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The defendant was accused of the following: 'punched the victim', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The defendant did a wallet, the report states it no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'initiated a physical fight', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman used a stolen credit card in a dark alley.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A woman falsified a signature at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While The defendant did a necklace, the report states it the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A man did a necklace, the report states it was defending himself.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The suspect did a stolen credit card, the report states it acted in self-defense.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While An individual did a wallet, the report states it returned the item immediately.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect pocketed a necklace in a dark alley.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect created fake documents at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "An individual was accused of the following: 'forged an ID', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The defendant did an ID, the report states it was provoked into the fight.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A man did a stolen credit card, the report states it it was an accident.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman stole a car in a public park.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'stole a car', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'took a wallet', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The defendant did an ID, the report states it was provoked into the fight.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual was accused of the following: 'used a stolen credit card', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'took a wallet', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While An individual did a necklace, the report states it was provoked into the fight.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual created fake documents in a public park.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A woman created fake documents downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While The suspect did electronics, the report states it there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A man did a car, the report states it no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A man punched the victim in a public park.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While The defendant did a physical fight, the report states it the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The defendant was accused of the following: 'created fake documents', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A man was accused of the following: 'falsified a signature', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'took a wallet', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A man did a bystander, the report states it it was a complete misunderstanding.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The defendant did a signature, the report states it was defending himself.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A man did the victim, the report states it the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The suspect did an ID, the report states it acted in self-defense.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual was accused of the following: 'pocketed a necklace', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did electronics, the report states it was provoked into the fight.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual initiated a physical fight at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While The defendant did fake documents, the report states it it was an accident.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual was accused of the following: 'initiated a physical fight', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'forged an ID', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman pocketed a necklace in a dark alley.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The defendant was accused of the following: 'took a wallet', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect stole a car downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While The defendant did an ID, the report states it the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The defendant shoplifted electronics in a public park.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While A woman did a car, the report states it acted in self-defense.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual was accused of the following: 'created fake documents', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'falsified a signature', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A man did fake documents, the report states it acted in self-defense.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The defendant was accused of the following: 'took a wallet', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A man was accused of the following: 'falsified a signature', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'shoplifted electronics', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The defendant did an ID, the report states it acted in self-defense.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect falsified a signature in a dark alley.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'took a wallet', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A man created fake documents in a public park.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A man was accused of the following: 'stole a car', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'punched the victim', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'forged an ID', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A man did a wallet, the report states it it was an accident.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The suspect did a car, the report states it was defending himself.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual created fake documents downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While A woman did fake documents, the report states it was defending himself.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A man took a wallet at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A woman forged an ID at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "An individual assaulted a bystander in a public park.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect created fake documents downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While A woman did an ID, the report states it the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'shoplifted electronics', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The suspect did electronics, the report states it there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A man did a bystander, the report states it was defending himself.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman used a stolen credit card at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A woman forged an ID at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While The defendant did the victim, the report states it it was a complete misunderstanding.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual pocketed a necklace at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While The suspect did fake documents, the report states it there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The defendant created fake documents at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A man assaulted a bystander at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While The suspect did an ID, the report states it the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The suspect did a car, the report states it there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did a car, the report states it no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman falsified a signature downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While A man did a physical fight, the report states it lacked sufficient evidence.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The suspect did a car, the report states it there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual pocketed a necklace downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A man assaulted a bystander in a public park.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect stole a car at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'pocketed a necklace', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual was accused of the following: 'shoplifted electronics', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The defendant did a signature, the report states it the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect assaulted a bystander at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'took a wallet', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'stole a car', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual assaulted a bystander at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While The defendant did an ID, the report states it no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The defendant shoplifted electronics at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'stole a car', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'assaulted a bystander', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'stole a car', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A man was accused of the following: 'assaulted a bystander', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect created fake documents at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The defendant used a stolen credit card downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'used a stolen credit card', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did a bystander, the report states it acted in self-defense.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did fake documents, the report states it returned the item immediately.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The defendant stole a car at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A man used a stolen credit card at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While An individual did the victim, the report states it there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A man falsified a signature downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The defendant assaulted a bystander in a public park.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While The suspect did a wallet, the report states it it was a complete misunderstanding.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A man pocketed a necklace in a dark alley.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "An individual was accused of the following: 'punched the victim', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While An individual did a necklace, the report states it was defending himself.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect forged an ID at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect punched the victim in a public park.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'took a wallet', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A man initiated a physical fight at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While A man did a signature, the report states it returned the item immediately.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual falsified a signature at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A woman forged an ID at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'assaulted a bystander', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A man was accused of the following: 'assaulted a bystander', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman punched the victim in a public park.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The defendant punched the victim at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "An individual took a wallet downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The defendant stole a car downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While A man did electronics, the report states it was defending himself.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did an ID, the report states it it was an accident.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A man was accused of the following: 'stole a car', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect punched the victim at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "An individual punched the victim in a dark alley.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A man forged an ID at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The defendant took a wallet at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'shoplifted electronics', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did electronics, the report states it the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did a stolen credit card, the report states it there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While An individual did a car, the report states it was provoked into the fight.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A man initiated a physical fight at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A woman used a stolen credit card downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "An individual initiated a physical fight at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While A woman did a physical fight, the report states it returned the item immediately.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The suspect did a signature, the report states it returned the item immediately.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'took a wallet', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did the victim, the report states it it was an accident.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A man did a wallet, the report states it the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A man did a signature, the report states it no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The defendant did an ID, the report states it lacked sufficient evidence.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The defendant was accused of the following: 'created fake documents', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'stole a car', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'initiated a physical fight', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The defendant took a wallet downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect took a wallet at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A man was accused of the following: 'forged an ID', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While An individual did a signature, the report states it lacked sufficient evidence.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The defendant was accused of the following: 'pocketed a necklace', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman took a wallet in a dark alley.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While A man did electronics, the report states it lacked sufficient evidence.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While An individual did a signature, the report states it it was a complete misunderstanding.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did electronics, the report states it it was an accident.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'created fake documents', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The defendant was accused of the following: 'stole a car', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The defendant did an ID, the report states it it was an accident.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'initiated a physical fight', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The defendant did fake documents, the report states it was provoked into the fight.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The defendant assaulted a bystander at their workplace.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The defendant was accused of the following: 'shoplifted electronics', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did a car, the report states it the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual was accused of the following: 'falsified a signature', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect shoplifted electronics in a public park.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A woman used a stolen credit card at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A woman created fake documents at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'created fake documents', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A man did a stolen credit card, the report states it was defending himself.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did the victim, the report states it lacked sufficient evidence.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual was accused of the following: 'stole a car', however, there is no proof.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While The defendant did the victim, the report states it lacked sufficient evidence.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual was accused of the following: 'punched the victim', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did a bystander, the report states it no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A man did a bystander, the report states it was provoked into the fight.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The suspect was accused of the following: 'forged an ID', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman used a stolen credit card downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A man was accused of the following: 'punched the victim', however, the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "An individual created fake documents downtown.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While The defendant did a wallet, the report states it it was an accident.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A man did a necklace, the report states it it was a complete misunderstanding.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While An individual did the victim, the report states it the claim is unsubstantiated.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "The defendant created fake documents in a dark alley.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A woman was accused of the following: 'shoplifted electronics', however, no witnesses confirmed the story.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "A woman stole a car in a dark alley.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "A woman forged an ID at the mall.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "The suspect pocketed a necklace in a public park.",
+    "label": "GUILTY"
+  },
+  {
+    "description": "While The defendant did electronics, the report states it it was a complete misunderstanding.",
+    "label": "NOT GUILTY"
+  },
+  {
+    "description": "While A woman did a physical fight, the report states it it was an accident.",
+    "label": "NOT GUILTY"
+  }
+]
