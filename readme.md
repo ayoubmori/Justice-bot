@@ -27,7 +27,7 @@ Aucune installation complexe n'est requise, car le projet utilise les bibliothè
 
 **1. Clonez le dépôt :**
 ```bash
-git clone [https://github.com/VOTRE_NOM_UTILISATEUR/JusticeBot.git](https://github.com/VOTRE_NOM_UTILISATEUR/JusticeBot.git)
+git clone [https://github.com/ayoubmori/Justice-bot.git](https://github.com/ayoubmori/Justice-bot.git)
 cd JusticeBot
 ```
 
@@ -68,3 +68,6 @@ Il est fragile : Le bot ne reconnaît que les mots-clés (keywords) exacts défi
 Il ne "comprend" pas : Il s'agit d'un système de correspondance de mots-clés (keywords), et non d'une véritable IA capable de raisonnement sémantique.
 
 Son évolutivité est manuelle : Pour ajouter de nouvelles règles, le fichier rules.json doit être modifié à la main.
+
+---
+Autor : Ayoub Taouabi
