@@ -27,7 +27,7 @@ Aucune installation complexe n'est requise, car le projet utilise les bibliothè
 
 **1. Clonez le dépôt :**
 ```bash
-git clone [https://github.com/ayoubmori/Justice-bot.git](https://github.com/ayoubmori/Justice-bot.git)
+git clone https://github.com/ayoubmori/Justice-bot.git
 cd JusticeBot
 ```
 
